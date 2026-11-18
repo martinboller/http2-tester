@@ -4,7 +4,8 @@ Lightweight Python script that reads a list of domains from a text file, tests e
 
 ## Prerequisites
 
-- **Python 3.6+** (Uses standard libraries `ssl`, `socket`, and `sys`—no third-party packages required)
+- **Python 3.6+** (Uses standard libraries `ssl`, `socket`, and `sys`
+- No third-party packages required)
 
 ## Setup
 
