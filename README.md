@@ -40,3 +40,6 @@ example.org                    -> Connection Error / Unreachable
 - **Red (`Supporting HTTP2 - potentially vulnerable`)**: The server negotiated the `h2` ALPN protocol.
 - **Green (`Not supporting HTTP2`)**: The server completed the TLS handshake without negotiating `h2`.
 - **Yellow (`Connection Error / Unreachable`)**: The connection timed out, DNS failed to resolve, or the TLS handshake encountered an error. (Maybe give it another try later)
+
+## Disclaimer
+Use at your own risk and do it responsibly, please!
